@@ -348,8 +348,8 @@ span {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 4rem;
-    height: 4rem;
+    width: 12rem;
+    height: 12rem;
     background: transparent;
     border: .2rem solid var(--main-color);
     border-radius: 50%;
